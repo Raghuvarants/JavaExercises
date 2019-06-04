@@ -58,8 +58,5 @@ public class Exercise2
 		{
 			System.out.println("The number "+n6+" is negative");
 		}
-	
-		//Problem 3 - Print the capital of the countries
-			
 	 }
 	}
