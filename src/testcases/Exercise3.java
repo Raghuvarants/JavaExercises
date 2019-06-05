@@ -68,7 +68,6 @@ public class Exercise3
 	   //Problem 11 - Trim Virtual Capacity of Array List
 	   a2.trimToSize();
 	   System.out.println(a2);
-	   
-	   
+	      
 	   }
   }
